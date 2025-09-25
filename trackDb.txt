@@ -1,49 +1,49 @@
-# Dataset A container
-track datasetA
+# Dataset AML container
+track datasetAML
 compositeTrack on
-shortLabel Dataset A
-longLabel RNAseq Dataset A
+shortLabel Dataset AML
+longLabel ChIPseq Dataset AML
 type bigWig 0 100
 autoScale on
 maxHeightPixels 100:30:10
 
-    track datasetA_sample1
-    parent datasetA
+    track datasetAML_sample1
+    parent datasetAML
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample1.normalizedRPKM.bw
-    shortLabel sample1
-    longLabel Dataset A sample1 RNAseq bigwig format
+    shortLabel PU1_sample1
+    longLabel Dataset AML sample1 PU1 ChIPseq bigwig format
     type bigWig
-    color 255,0,0
+    color 184,24,90
 
-    track datasetA_sample2
-    parent datasetA
+    track datasetAML_sample2
+    parent datasetAML
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample2.normalizedRPKM.bw
-    shortLabel sample2
-    longLabel Dataset A sample2 RNAseq bigwig format
+    shortLabel PU1_sample2
+    longLabel Dataset AML sample2 PU1 ChIPseq bigwig format
     type bigWig
-    color 202,21,54
+    color 184,24,90
 
-# Dataset B container
-track datasetB
+# Dataset HR container
+track datasetHR
 compositeTrack on
-shortLabel Dataset B
-longLabel RNAseq Dataset B
+shortLabel Dataset HR
+longLabel ChIPseq Dataset HR
 type bigWig 0 100
 autoScale on
 maxHeightPixels 100:30:10
 
-    track datasetB_sample3
-    parent datasetB
+    track datasetHR_sample3
+    parent datasetHR
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample3.normalizedRPKM.bw
-    shortLabel sample3
-    longLabel Dataset B sample3 RNAseq bigwig format
+    shortLabel PU1_sample3
+    longLabel Dataset HR sample3 PU1 ChIPseq bigwig format
     type bigWig
-    color 150,60,102
+    color 214,214,35
 
-    track datasetB_sample4
-    parent datasetB
+    track datasetHR_sample4
+    parent datasetHR
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample4.normalizedRPKM.bw
-    shortLabel sample4
-    longLabel Dataset B sample4 RNAseq bigwig format
+    shortLabel PU1_sample4
+    longLabel Dataset HR sample4 PU1 ChIPseq bigwig format
     type bigWig
-    color 150,60,102
+    color 214,214,35
