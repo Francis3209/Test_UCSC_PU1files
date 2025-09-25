@@ -23,27 +23,27 @@ maxHeightPixels 100:30:10
     type bigWig
     color 184,24,90
 
-# Dataset HR container
-track datasetHR
+# Dataset LR container
+track datasetLR
 compositeTrack on
-shortLabel Dataset HR
-longLabel ChIPseq Dataset HR
+shortLabel Dataset LR
+longLabel ChIPseq Dataset LR
 type bigWig 0 100
 autoScale on
 maxHeightPixels 100:30:10
 
-    track datasetHR_sample3
-    parent datasetHR
+    track datasetLR_sample3
+    parent datasetLR
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample3.normalizedRPKM.bw
     shortLabel PU1_sample3
-    longLabel Dataset HR sample3 PU1 ChIPseq bigwig format
+    longLabel Dataset LR sample3 PU1 ChIPseq bigwig format
     type bigWig
     color 214,214,35
 
-    track datasetHR_sample4
-    parent datasetHR
+    track datasetLR_sample4
+    parent datasetLR
     bigDataUrl https://francis3209.github.io/myTrackHub_test/sample4.normalizedRPKM.bw
     shortLabel PU1_sample4
-    longLabel Dataset HR sample4 PU1 ChIPseq bigwig format
+    longLabel Dataset LR sample4 PU1 ChIPseq bigwig format
     type bigWig
     color 214,214,35
