@@ -38,7 +38,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample3
     longLabel Dataset LR sample3 PU1 ChIPseq bigwig format
     type bigWig
-    color 214,214,35
+    color 119,214,245
 
     track datasetLR_sample4
     parent datasetLR
@@ -46,4 +46,4 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample4
     longLabel Dataset LR sample4 PU1 ChIPseq bigwig format
     type bigWig
-    color 214,214,35
+    color 119,214,245
