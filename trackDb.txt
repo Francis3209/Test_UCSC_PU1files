@@ -9,7 +9,7 @@ maxHeightPixels 100:30:10
 
     track datasetAML_sample1
     parent datasetAML
-    bigDataUrl https://francis3209.github.io/myTrackHub_test/sample1.normalizedRPKM.bw
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_AML_patient_sample_372.BigWig?download=1
     shortLabel PU1_sample1
     longLabel Dataset AML sample1 PU1 ChIPseq bigwig format
     type bigWig
@@ -17,7 +17,7 @@ maxHeightPixels 100:30:10
 
     track datasetAML_sample2
     parent datasetAML
-    bigDataUrl https://francis3209.github.io/myTrackHub_test/sample2.normalizedRPKM.bw
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_AML_patient_sample_63.BigWig?download=1
     shortLabel PU1_sample2
     longLabel Dataset AML sample2 PU1 ChIPseq bigwig format
     type bigWig
@@ -34,7 +34,7 @@ maxHeightPixels 100:30:10
 
     track datasetLR_sample3
     parent datasetLR
-    bigDataUrl https://francis3209.github.io/myTrackHub_test/sample3.normalizedRPKM.bw
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_55.BigWig?download=1 
     shortLabel PU1_sample3
     longLabel Dataset LR sample3 PU1 ChIPseq bigwig format
     type bigWig
@@ -42,7 +42,7 @@ maxHeightPixels 100:30:10
 
     track datasetLR_sample4
     parent datasetLR
-    bigDataUrl https://francis3209.github.io/myTrackHub_test/sample4.normalizedRPKM.bw
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_56.BigWig?download=1
     shortLabel PU1_sample4
     longLabel Dataset LR sample4 PU1 ChIPseq bigwig format
     type bigWig
