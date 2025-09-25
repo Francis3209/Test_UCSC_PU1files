@@ -1,0 +1,5 @@
+hub myTrackHub_PU1_test
+shortLabel My Pu1ChIP Hub
+longLabel A collection of PU.1 ChIPseq bigwig files for my project.
+genomesFile genomes.txt
+email francesco.gandolfi@ieo.it
