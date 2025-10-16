@@ -104,6 +104,54 @@ type bigWig 0 100
 autoScale on
 maxHeightPixels 100:30:10
 
+    track datasetLR_sample54
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_54.BigWig?download=1 
+    shortLabel PU1_sample54
+    longLabel Dataset LR sample54 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
+    track datasetLR_sample74
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_74.BigWig?download=1 
+    shortLabel PU1_sample74
+    longLabel Dataset LR sample74 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
+    track datasetLR_sample5
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_5.BigWig?download=1 
+    shortLabel PU1_sample5
+    longLabel Dataset LR sample5 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
+    track datasetLR_sample121
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_121.BigWig?download=1 
+    shortLabel PU1_sample121
+    longLabel Dataset LR sample121 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
+    track datasetLR_sample162
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_162.BigWig?download=1 
+    shortLabel PU1_sample162
+    longLabel Dataset LR sample162 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
+    track datasetLR_sample56
+    parent datasetLR
+    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_56.BigWig?download=1
+    shortLabel PU1_sample56
+    longLabel Dataset LR sample56 PU1 ChIPseq bigwig format
+    type bigWig
+    color 13,49,172
+
     track datasetLR_sample55
     parent datasetLR
     bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_55.BigWig?download=1 
@@ -112,27 +160,11 @@ maxHeightPixels 100:30:10
     type bigWig
     color 119,214,245
 
-    track datasetLR_sample56
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_56.BigWig?download=1
-    shortLabel PU1_sample56
-    longLabel Dataset LR sample56 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
     track datasetLR_sample114
     parent datasetLR
     bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_114.BigWig?download=1
     shortLabel PU1_sample114
     longLabel Dataset LR sample114 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
-    track datasetLR_sample121
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_121.BigWig?download=1 
-    shortLabel PU1_sample121
-    longLabel Dataset LR sample121 PU1 ChIPseq bigwig format
     type bigWig
     color 119,214,245
 
@@ -149,14 +181,6 @@ maxHeightPixels 100:30:10
     bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_156.BigWig?download=1 
     shortLabel PU1_sample156
     longLabel Dataset LR sample156 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
-    track datasetLR_sample162
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_162.BigWig?download=1 
-    shortLabel PU1_sample162
-    longLabel Dataset LR sample162 PU1 ChIPseq bigwig format
     type bigWig
     color 119,214,245
 
@@ -192,34 +216,10 @@ maxHeightPixels 100:30:10
     type bigWig
     color 119,214,245
 
-    track datasetLR_sample5
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_5.BigWig?download=1 
-    shortLabel PU1_sample5
-    longLabel Dataset LR sample5 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
     track datasetLR_sample50
     parent datasetLR
     bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_50.BigWig?download=1 
     shortLabel PU1_sample50
     longLabel Dataset LR sample50 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
-    track datasetLR_sample54
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_54.BigWig?download=1 
-    shortLabel PU1_sample54
-    longLabel Dataset LR sample54 PU1 ChIPseq bigwig format
-    type bigWig
-    color 119,214,245
-
-    track datasetLR_sample74
-    parent datasetLR
-    bigDataUrl https://zenodo.org/records/17151734/files/PU1_LR_patient_sample_74.BigWig?download=1 
-    shortLabel PU1_sample74
-    longLabel Dataset LR sample74 PU1 ChIPseq bigwig format
     type bigWig
     color 119,214,245
