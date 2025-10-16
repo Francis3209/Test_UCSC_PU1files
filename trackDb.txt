@@ -13,7 +13,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample256
     longLabel Dataset AML sample256 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample286
     parent datasetAML
@@ -21,7 +21,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample286
     longLabel Dataset AML sample286 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample300
     parent datasetAML
@@ -29,7 +29,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample300
     longLabel Dataset AML sample300 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample317
     parent datasetAML
@@ -37,7 +37,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample317
     longLabel Dataset AML sample317 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample372
     parent datasetAML
@@ -45,7 +45,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample372
     longLabel Dataset AML sample372 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample38
     parent datasetAML
@@ -53,7 +53,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample38
     longLabel Dataset AML sample38 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample39
     parent datasetAML
@@ -61,7 +61,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample39
     longLabel Dataset AML sample39 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample42
     parent datasetAML
@@ -69,7 +69,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample42
     longLabel Dataset AML sample42 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample44
     parent datasetAML
@@ -77,7 +77,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample44
     longLabel Dataset AML sample44 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample63
     parent datasetAML
@@ -85,7 +85,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample63
     longLabel Dataset AML sample63 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
     track datasetAML_sample79
     parent datasetAML
@@ -93,7 +93,7 @@ maxHeightPixels 100:30:10
     shortLabel PU1_sample79
     longLabel Dataset AML sample79 PU1 ChIPseq bigwig format
     type bigWig
-    color 184,24,90
+    color 174,6,32
 
 # Dataset LR container
 track datasetLR
